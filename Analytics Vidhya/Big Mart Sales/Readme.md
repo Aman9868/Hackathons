@@ -11,11 +11,8 @@ Please note that the data may have missing values as some stores might not repor
 Data Dictionary
 We have train (8523) and test (5681) data set, train data set has both input and output variable(s). You need to predict the sales for test data set.
 
-
-
-
-
-
+![1](https://user-images.githubusercontent.com/60923869/91076070-91758800-e65c-11ea-9048-f47b73427364.PNG)
+![2](https://user-images.githubusercontent.com/60923869/91076215-c97ccb00-e65c-11ea-8581-9c5985a067fd.PNG)
 
 
 # LINK
