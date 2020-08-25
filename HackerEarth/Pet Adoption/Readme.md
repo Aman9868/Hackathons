@@ -35,9 +35,6 @@ To analyze and implement multiple algorithms, and determine which is more approp
 To get hands-on experience of Machine Learning problems. 
 Who should participate?
 
-# Working professionals.
-Data Science or Machine Learning enthusiasts. 
-College students (if you understand the basics of predictive modeling). 
-Tutorials
+# RANK
+![Capture](https://user-images.githubusercontent.com/60923869/91205466-3e1a3d00-e723-11ea-92c5-383372cf4fdb.PNG)
 
-Machine Learning practice
