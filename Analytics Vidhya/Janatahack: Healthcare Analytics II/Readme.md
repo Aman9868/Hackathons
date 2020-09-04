@@ -31,3 +31,7 @@ test.csv – File containing features related to patient, hospital. Need to pred
 case_id: Unique id for each case
 
 Stay: Length of stay for the patient w.r.t each case id in test data
+
+# Rank
+![Capture](https://user-images.githubusercontent.com/60923869/92243453-2723d980-eedf-11ea-986c-9f43bee885e4.PNG)
+
